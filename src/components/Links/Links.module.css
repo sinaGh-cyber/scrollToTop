@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 0;
+    background: lavenderblush;
+}
+
+.container a {
+    text-decoration: none;
+    color: inherit;
+}
